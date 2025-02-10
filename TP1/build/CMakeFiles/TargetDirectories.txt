@@ -1,3 +1,0 @@
-/home/samuel/Documents/Graphs/TP1/build/CMakeFiles/tp1_graphes.dir
-/home/samuel/Documents/Graphs/TP1/build/CMakeFiles/edit_cache.dir
-/home/samuel/Documents/Graphs/TP1/build/CMakeFiles/rebuild_cache.dir
